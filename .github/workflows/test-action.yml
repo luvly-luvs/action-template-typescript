@@ -9,4 +9,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: ./
         with:
-          token: ${{ secrets.ASSIGN_APP_TOKEN }}
+          token: ${{ secrets.SOME_TOKEN }}

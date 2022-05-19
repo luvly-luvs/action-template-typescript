@@ -1,5 +1,5 @@
-name: 'auto-assign-issue'
-description: 'Auto-assign issues to a Projects (Beta) board'
+name: 'action-template-typescript'
+description: 'Github Actions Typescript Template'
 author: 'luvly-luvs'
 inputs:
   token:
